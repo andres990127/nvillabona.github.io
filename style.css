@@ -13,4 +13,27 @@ body {
     font-family: 'Muli', sans-serif;
     /* padding-left: 45%; */
     font-size: 30px;
+    border-bottom-color: black ;
+    border-bottom-width: 10px;
+}
+.info{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0px 30px;
+    min-height: calc(100vh - 200px);
+    font-family: 'Muli', sans-serif;
+    
+}
+.info h1{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.1);
+    border: white solid;
+    border-radius: 25px;
+    padding: 60px 68px 40px;
+    min-height: 700px;
+    width: 40%;
 }
