@@ -4,7 +4,7 @@ body {
 .nombre{
     align-items: center;
     background-color: #ae8799;
-    color: white;
+    color: blue;
     display: flex;
     justify-content: center;
     height: 100px;
